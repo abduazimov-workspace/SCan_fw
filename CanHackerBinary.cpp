@@ -10,8 +10,8 @@
 
 
 static const uint8_t deviceInfo[] = "CH-3.2";			// cmd 0x01
-static const uint8_t deviceFirmware[] = "2.1.1.9";		// cmd 0x02
-static const uint8_t deviceSerial[8] = { 0,0,0,0,0,0,0x08,0x05 };
+static const uint8_t deviceFirmware[] = "2.2.1.53";		// cmd 0x02
+static const uint8_t deviceSerial[8] = { 0,0,0,0,0,0xAA,0xBB,0xCC };
 
 
 
